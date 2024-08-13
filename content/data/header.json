@@ -12,7 +12,8 @@
                     "pr-1",
                     "pl-1",
                     "pb-1"
-                ]
+                ],
+                "borderWidth": 1
             }
         },
         "type": "ImageBlock"
